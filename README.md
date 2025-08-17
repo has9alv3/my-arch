@@ -1,10 +1,15 @@
 #  EndeavourOS Installation Guide
 
 **Author:** [Hasnain Ahmed Alve/has9alv3]
+
 **Date:** August 17, 2025
+
 **Hardware:** HP EliteBook 845 14 inch G10 Notebook PC (AMD Ryzen 7 PRO 7840U w/ Radeon 780M)
+
 **Operating System:** EndeavourOS (Arch Linux)
+
 **Desktop Environment:** KDE Plasma
+
 **Filesystem:** Btrfs with System Snapshots
 
 ---
